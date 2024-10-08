@@ -1,5 +1,4 @@
 # myapp.py
-
 from random import random
 import streamlit as st
 from bokeh.layouts import column
